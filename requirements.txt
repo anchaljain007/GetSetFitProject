@@ -3,3 +3,5 @@ gunicorn
 django-heroku
 django
 django-crispy-forms
+matplotlib
+Pillow
