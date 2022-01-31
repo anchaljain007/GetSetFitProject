@@ -121,7 +121,7 @@ The software or website will be given as a service to various dieticians to trac
 
 ### Made with love from:
 <br>
-Team CreatorsSquad
+Anchal Jain 1811015 Ansh Jain 1811016 Jigar Joshi 1811018
 
 
 
